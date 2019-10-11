@@ -19,3 +19,6 @@ Root route / that will query the database and pass the mars data into HTML templ
 
 HTML and BootStrap:
 Finally a HTML file called 'index.html' was created that displayed all of the data in HTML elements.
+
+
+![screencapture-127-0-0-1-5002-2019-10-11-08_45_16](https://user-images.githubusercontent.com/50187921/66656478-b22f1d80-ec03-11e9-8eaa-c4ea2bc3dbe4.png)
