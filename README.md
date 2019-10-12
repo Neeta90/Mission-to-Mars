@@ -1,5 +1,5 @@
 # Mission-to-Mars
-A web application was built that scrapes data from five different websites to gather data related to the Mission to Mars and displays the information in a single HTML page.
+A web application was built that scrapes data from five different websites to gather data related to the Mission to Mars and displays the information in a single HTML page using BeautifulSoup, Splinter, MongoDb, and Flask.
 
 Scraping:
 https://mars.nasa.gov/news/ website was used to get the latest news on Mars mission using BeautifulSoup, splinter, pandas in a jupyter notebook.
